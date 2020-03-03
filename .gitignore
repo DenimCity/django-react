@@ -26,3 +26,4 @@ yarn.lock
 *.pyc
 venv/*
 **/node_modules/**
+.vscode
